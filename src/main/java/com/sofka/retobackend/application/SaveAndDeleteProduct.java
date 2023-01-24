@@ -1,4 +1,4 @@
-package com.sofka.retobackend.application.useCases;
+package com.sofka.retobackend.application;
 
 import com.sofka.retobackend.domain.model.Product;
 import reactor.core.publisher.Mono;

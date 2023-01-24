@@ -1,7 +1,7 @@
 package com.sofka.retobackend.infraestructure.controllers;
 
-import com.sofka.retobackend.application.useCases.FindProduct;
-import com.sofka.retobackend.application.useCases.SaveAndDeleteProduct;
+import com.sofka.retobackend.application.FindProduct;
+import com.sofka.retobackend.application.SaveAndDeleteProduct;
 import com.sofka.retobackend.domain.model.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

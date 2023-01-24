@@ -1,5 +1,6 @@
 package com.sofka.retobackend.application.useCases;
 
+import com.sofka.retobackend.application.FindProduct;
 import com.sofka.retobackend.domain.model.Product;
 import com.sofka.retobackend.domain.port.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
